@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Muhammad Sharjeel Asghar",
+    "label": "Computer Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "asgharsharjeel@gmail.com",
+    "phone": "+92-3006467649",
+    "url": "https://shani7007.github.io",
+    "summary": "CLOUD PRACTITIONER || PROGRAMMER || IT SPECIALIST",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "S Block, Masoom Shah Road, New Multan",
+      "postalCode": "60000",
+      "city": "Multan",
+      "countryCode": "PK",
+      "region": "South-Asia"
     },
     "profiles": [
       {
@@ -47,15 +47,15 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "NFC IET Multan",
+      "location": "Multan, Pakistan",
+      "url": "https://nfciet.edu.pk",
+      "area": "Computer Sciences",
+      "studyType": "Bachelors",
+      "startDate": "2012-01-01",
+      "endDate": "2016-01-01",
+      "score": "3.65",
+      "courses": ["Software Development", "Web development"]
     }
   ],
   "awards": [
